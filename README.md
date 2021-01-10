@@ -1,2 +1,2 @@
 # blogpost 
-# SSL KEY MUlIPLE Git Account
+# Setting up SSL for multiple git accounts
